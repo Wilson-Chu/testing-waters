@@ -1,8 +1,8 @@
 # testing-waters
 Just messing around...
 
-Hello!
+Hello there!
 
-I absolutely DO enjoy eating pizza! With or without pineapples.
+I enjoy pineapple on my pizza.
 
 Bye.
